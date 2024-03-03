@@ -1,5 +1,5 @@
 # House Price Prediction Models
-This repository contains notebooks for two machine learning models created as a part of an ML internship by Prodigy Infotech. The models are developed to predict house prices using different algorithms: Linear Regression and Random Forest Regression.
+This repository contains notebooks for two machine learning models. The models are developed to predict house prices using different algorithms: Linear Regression and Random Forest Regression.
 ## Random Forest Model
 The Random Forest model notebook (model_randomforest.ipynb) utilizes a Random Forest Regression algorithm for predicting house prices. The performance metrics for this model are as follows:
     <ul>
